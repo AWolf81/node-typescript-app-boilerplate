@@ -7,6 +7,6 @@
   //disable default javascript validator replaced by eslint
   "javascript.validate.enable": false,
   "editor.codeActionsOnSave": {
-    "source.fixAll.tslint": true
+    "source.fixAll.eslint": true
   }
 }
